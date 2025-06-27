@@ -1,0 +1,190 @@
+body{
+    background-color: rgb(231, 228, 228);
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    width: 1520px;
+    height: 140px;
+}
+
+header div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+}
+
+
+.box{
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    margin-left: 120px;
+}
+
+.box div{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 150px;
+}
+
+a{
+    text-decoration: none;
+    color: red;
+}
+
+h1{
+    font-size:xx-large;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(15, 15, 144);
+    text-align: center;
+}
+
+.box0{
+    width: 500px;
+    height: 70px;
+    background-color: rgb(173, 171, 171);
+    margin-left: 50px;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    border-radius: 30px;
+}
+
+button{
+    width: 240px;
+    height: 50px;
+    background-color: rgb(218, 214, 214);
+    color: #757575;
+    border: none;
+    border-radius: 20px;
+}
+
+button:active{
+    color: black;
+    background-color: white;
+}
+
+
+.input1{
+    width: 520px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.input2{
+    width: 520px;
+    height: 60px;
+    border-radius: 20px;
+}
+
+.box1{
+    margin-left: 35px;
+}
+
+h2{
+    text-align: center;
+}
+
+.but{
+    background-color: rgb(254, 102, 94);
+    color: white;
+    margin-left: 360px;
+    width: 200px;
+    height: 60px;
+}
+ 
+.but:active{
+    background-color:rgb(254, 102, 94) ;
+}
+
+.box2{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    margin-left: 500px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
